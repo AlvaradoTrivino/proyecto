@@ -1,0 +1,41 @@
+.root{
+   -fx-border-color: rgb(86, 86, 228);
+}
+
+.button{
+   -fx-background-color: linear-gradient(#82c7d4, #25b0cf);
+   -fx-background-radius: 30;
+   -fx-text-fill: white;
+   -fx-font-size: 14px;
+   -fx-font-weight: bold;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+.label {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+}
+
+.list-view {
+   -fx-border-color: black;
+   -fx-background-color: black;
+}
+
+.button:hover{
+   -fx-background-color: #07f7f7;
+   -fx-background-radius: 30;
+}
+.button:pressed{
+   -fx-background-color: #0f1010;
+   -fx-background-radius: 30;
+}
+.textfield{
+   -fx-border-color: blue;
+   -fx-border-width: 1px;
+}
+.AnchorPane {
+   -fx-border-color: rgb(201, 18, 18);
+   -fx-background-color: black;
+   -fx-border-width: 1px;
+}

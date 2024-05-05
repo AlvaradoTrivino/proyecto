@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "menu",
+            "request": "launch",
+            "mainClass": "application.menu",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Practica de Interfaz #1_6db8b790"
+        },
+        {
+            "type": "java",
+            "name": "menu",
+            "request": "launch",
+            "mainClass": "application.menu",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "3.ejercioo_82159078"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "menu",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "3.ejercioo_82159078"
+        }
+    ]
+}
