@@ -2,7 +2,8 @@
 
 Aqui se presentara la primera intefaz de practica del tercer semetre de la universidad de guayaquil.
 
-## Imgen de ejemplo de la practica
+## Imagen de ejemplo del Proyecto
+![Captura de Pantalla de la Aplicación](https://github.com/AlvaradoTrivino/proyecto/blob/main/Captura%20de%20pantalla%20(126).png)
 
 
 
