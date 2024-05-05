@@ -1,6 +1,10 @@
-## Getting Started
+## Practica de interface
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aqui se presentara la primera intefaz de practica del tercer semetre de la universidad de guayaquil.
+
+## Imgen de ejemplo de la practica
+
+
 
 ## Folder Structure
 
