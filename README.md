@@ -11,7 +11,11 @@ Se creo un text fiel en el diseño del proyecto , en este código crea un TextFi
 ##   ListView
 Aqui se crea un ListView y se agrega al AnchorPane. Aquí está el fragmento relevante:
 Este código crea un ListView vacío y establece su posición dentro del AnchorPane. En este caso, se posiciona en la parte superior izquierda (20.0 desde la parte superior y 220.0 desde la izquierda). Luego, el ListView se agrega al AnchorPane para que sea visible en la interfaz de usuario.
+## Metodo label
+En el método agregarLabels, se llaman varias veces al método agregarLabel para agregar etiquetas al AnchorPane. Cada llamada especifica el texto y la posición de una etiqueta diferente.
 
+## Agregar el label
+El método agregarLabel crea un objeto Label con el texto proporcionado y luego establece la posición superior e izquierda del Label en el AnchorPane utilizando los métodos estáticos setTopAnchor y setLeftAnchor de la clase AnchorPane. Finalmente, agrega el Label al AnchorPane llamando al método getChildren().add(label) del AnchorPane.
 
 ## Metodos usadors
 
