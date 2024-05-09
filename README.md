@@ -12,15 +12,6 @@ Se creo un text fiel en el diseño del proyecto , en este código crea un TextFi
 Aqui se crea un ListView y se agrega al AnchorPane. Aquí está el fragmento relevante:
 Este código crea un ListView vacío y establece su posición dentro del AnchorPane. En este caso, se posiciona en la parte superior izquierda (20.0 desde la parte superior y 220.0 desde la izquierda). Luego, el ListView se agrega al AnchorPane para que sea visible en la interfaz de usuario.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
 
 ## Metodos usadors
 
